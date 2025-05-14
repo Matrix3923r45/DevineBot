@@ -1,0 +1,24 @@
+{
+    "token": "MTM3MjEzMTcyMjAyMzY2OTc3MQ.GUowx-.jvzgH_8OwQuOXovdwizxirSRAb1Ut4LDWJnoGw",
+    "language": "en",
+    "prefix": "!",
+    "mongodbUri": "",
+    "excessCommands": {
+        "utility": true,
+        "other": true,
+        "hentai": true,
+        "troll": true,
+        "economy" : true
+    },
+    "categories": {
+        "media": true,
+        "basic": true,
+        "utility": true,
+        "moderation": true,
+        "core" :true,
+        "lavalink": true,
+        "fun": true,
+        "distube": true,
+        "setups": true
+    }
+}
